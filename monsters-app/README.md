@@ -9,12 +9,11 @@ The main goal of this project is create a simple app that contains each monster 
 ## Built With
 
 - HTML
-- SCSS
-- Bootstrap
+- CSS
 - JavaScript
-- Webpack
-- Weather API
 - npm
+- React
+- API
 
 ## Live Demo
 
