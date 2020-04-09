@@ -2,7 +2,7 @@
 
 > Monsters-App, creating a an app using React.
 
-![screenshot]()
+![screenshot](https://i.imgur.com/Af4r0PL.png)
 
 The main goal of this project is create a simple app that contains each monster with the description and the user can search for each one on the search bar.
 
