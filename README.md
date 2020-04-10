@@ -17,7 +17,7 @@ The main goal of this project is create a simple app that contains each monster 
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://monster-app-test.herokuapp.com/)
 
 ## Getting Started
 
